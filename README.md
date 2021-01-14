@@ -1,15 +1,7 @@
-# LeiSuTiYu
+# Digital Hotspots Info Plaza
 
-LeiSuTiYu is dedicated to promoting triathlon, so that people can buy professional triathlon equipment and books in their daily life, and can easily record and share the competition results.
+Digital Hotspots Info Plaza is an app that allows people to easily access hot information, including the latest news, real-time news, digital currency knowledge, industry information and other information
 
-- Our app displays a full range of triathlon sporting goods, including cycling equipment, running equipment, swimming equipment, triathlon training books and other triathlon sporting goods. These categories complete triathlon sporting goods can meet the user's selection and procurement.
+Our app provides you with the market information of various digital currencies, so that you can understand the market changes in real time. At the same time, it also provides the appointment function of lectures, so that you can easily Book Professional offline lectures. You can also express your opinions in the topic circle and exchange your ideas with others, so that you can better learn, share and exchange relevant information.
 
-- Our app has classified these triathlon sporting goods in great detail, which helps users to quickly find the triathlon sporting goods they want to buy.
-
-- Our app also has the function of commodity collection. Your favorite triathlon equipment and training books can be collected into the collection list for your browsing and placing orders.
-
-- Our app also has the function of record of match results. You can record the situation and results of live matches, record every sports match you like, and share the match results.
-
-Racing iron man spirit with you march forward courageously!
-
-If you have any questions, please contact us as follows :tyu77rc@icloud.com
+If you have any questions, please contact us as follows :BLOSSOM_HO@icloud.com
